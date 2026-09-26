@@ -1,0 +1,9 @@
+node_modules/
+observability/.terraform/
+observability/terraform.tfstate
+observability/terraform.tfstate.backup
+observability/.terraform.lock.hcl
+events/.terraform/
+events/terraform.tfstate
+events/terraform.tfstate.backup
+events/.terraform.lock.hcl
