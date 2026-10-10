@@ -7,3 +7,9 @@ events/.terraform/
 events/terraform.tfstate
 events/terraform.tfstate.backup
 events/.terraform.lock.hcl
+
+# Terraform (Lab 11)
+**/.terraform/
+*.tfstate
+*.tfstate.*
+api-gateway/*.zip
